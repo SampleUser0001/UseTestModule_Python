@@ -1,0 +1,3 @@
+[submodule "TestModule_Python"]
+	path = TestModule_Python
+	url = https://github.com/SampleUser0001/TestModule_Python.git
